@@ -3,5 +3,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Mobile App Development
-- 🌱 I’m currently learning SwiftUI, Kotlin
-- 📫 How to reach me: [email](donganyuan1010@gmail.com)， [Leetcode](https://leetcode.com/anyuan/)
+- 🌱 I’m currently learning Swift source code, and compiler.
+- 📫 How to reach me: [email](donganyuan1010@gmail.com)
